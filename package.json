@@ -21,7 +21,7 @@
   "devDependencies": {
     "@types/dompurify": "^2.2.1",
     "@types/marked": "^1.2.2",
-    "@typescript-eslint/eslint-plugin": "^4.15.0",
+    "@typescript-eslint/eslint-plugin": "^4.28.3",
     "@typescript-eslint/parser": "^4.15.0",
     "@vue/cli-plugin-babel": "^4.5.11",
     "@vue/cli-plugin-eslint": "^4.5.11",
